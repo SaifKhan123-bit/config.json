@@ -1,5 +1,5 @@
 {
-  "dialogTitle": "Saif Khan",
+  "dialogTitle": "MUD ZONE",
   "firebaseDbUrl": "https://adsverification-bit-default-rtdb.asia-southeast1.firebasedatabase.app/",
   "tokenRequestUrl": "https://adsverification-bit.netlify.app/.netlify/functions/request-token",
 
