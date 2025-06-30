@@ -1,5 +1,5 @@
 {
-  "dialogTitle": "ADS SHORT",
+  "dialogTitle": "Saif Khan",
   "firebaseDbUrl": "https://adsverification-bit-default-rtdb.asia-southeast1.firebasedatabase.app/",
   "tokenRequestUrl": "https://adsverification-bit.netlify.app/.netlify/functions/request-token",
 
@@ -10,15 +10,15 @@
   },
 
   "links": {
-    "myAdPage": "https://www.designlabofficial.site/p/verify-page.html",
-    "joinUs": "https://t.me/DesignLabOfficialChat",
-    "contact": "https://t.me/GG_YAMIN",
-    "tutorial": "https://youtube.com/shorts/XBhxUikg0Jg?si=COU7TpRdf4-EKgT5"
+    "myAdPage": "https://techzonelmcgcam.blogspot.com/p/verify-page.html",
+    "joinUs": "https://t.me/+zpL47oAHZ6VhZGE9",
+    "contact": "https://t.me/techzonechat00",
+    "tutorial": "https://t.me/Mudzonebackup/26"
   },
 
   "adsterraSystem": {
     "enabled": true,
-    "adsterraVerificationUrl": "https://www.yammymods.com/p/adsterra-page.html"
+    "adsterraVerificationUrl": "https://techzonelmcgcam.blogspot.com/p/adsterra-page.html"
   },
 
   "expireSystem": {
